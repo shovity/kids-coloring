@@ -1,0 +1,1063 @@
+{
+ "packs": [
+  {
+   "id": "animals",
+   "title": "Động vật",
+   "button": "ui/button-animal.png",
+   "icon": "ui/lock-animals.png",
+   "pages": [
+    {
+     "id": "animals-01",
+     "width": 1346,
+     "height": 1346,
+     "regions": 13,
+     "decor": 0
+    },
+    {
+     "id": "animals-02",
+     "width": 1346,
+     "height": 1346,
+     "regions": 10,
+     "decor": 0
+    },
+    {
+     "id": "animals-03",
+     "width": 1346,
+     "height": 1346,
+     "regions": 11,
+     "decor": 0
+    },
+    {
+     "id": "animals-04",
+     "width": 1346,
+     "height": 1346,
+     "regions": 8,
+     "decor": 0
+    },
+    {
+     "id": "animals-05",
+     "width": 1346,
+     "height": 1346,
+     "regions": 16,
+     "decor": 0
+    },
+    {
+     "id": "animals-06",
+     "width": 1346,
+     "height": 1346,
+     "regions": 7,
+     "decor": 0
+    },
+    {
+     "id": "animals-07",
+     "width": 1346,
+     "height": 1346,
+     "regions": 16,
+     "decor": 0
+    },
+    {
+     "id": "animals-08",
+     "width": 1346,
+     "height": 1346,
+     "regions": 10,
+     "decor": 0
+    },
+    {
+     "id": "animals-09",
+     "width": 1346,
+     "height": 1346,
+     "regions": 22,
+     "decor": 0
+    },
+    {
+     "id": "animals-10",
+     "width": 1346,
+     "height": 1346,
+     "regions": 7,
+     "decor": 0
+    },
+    {
+     "id": "animals-11",
+     "width": 1346,
+     "height": 1346,
+     "regions": 14,
+     "decor": 0
+    },
+    {
+     "id": "animals-12",
+     "width": 1346,
+     "height": 1346,
+     "regions": 11,
+     "decor": 0
+    },
+    {
+     "id": "animals-13",
+     "width": 1346,
+     "height": 1346,
+     "regions": 12,
+     "decor": 0
+    },
+    {
+     "id": "animals-14",
+     "width": 1346,
+     "height": 1346,
+     "regions": 6,
+     "decor": 0
+    },
+    {
+     "id": "animals-15",
+     "width": 1346,
+     "height": 1346,
+     "regions": 9,
+     "decor": 0
+    }
+   ]
+  },
+  {
+   "id": "underwater",
+   "title": "Đại dương",
+   "button": "ui/button-underwaner.png",
+   "icon": "ui/lock-underwater.png",
+   "pages": [
+    {
+     "id": "underwater-01",
+     "width": 1346,
+     "height": 1346,
+     "regions": 7,
+     "decor": 0
+    },
+    {
+     "id": "underwater-02",
+     "width": 1346,
+     "height": 1346,
+     "regions": 13,
+     "decor": 0
+    },
+    {
+     "id": "underwater-03",
+     "width": 1346,
+     "height": 1346,
+     "regions": 11,
+     "decor": 0
+    },
+    {
+     "id": "underwater-04",
+     "width": 1346,
+     "height": 1346,
+     "regions": 7,
+     "decor": 0
+    },
+    {
+     "id": "underwater-05",
+     "width": 1346,
+     "height": 1346,
+     "regions": 6,
+     "decor": 0
+    },
+    {
+     "id": "underwater-06",
+     "width": 1346,
+     "height": 1346,
+     "regions": 14,
+     "decor": 0
+    },
+    {
+     "id": "underwater-07",
+     "width": 1346,
+     "height": 1346,
+     "regions": 13,
+     "decor": 0
+    },
+    {
+     "id": "underwater-08",
+     "width": 1346,
+     "height": 1346,
+     "regions": 7,
+     "decor": 0
+    },
+    {
+     "id": "underwater-09",
+     "width": 1346,
+     "height": 1346,
+     "regions": 8,
+     "decor": 0
+    },
+    {
+     "id": "underwater-10",
+     "width": 1346,
+     "height": 1346,
+     "regions": 12,
+     "decor": 0
+    },
+    {
+     "id": "underwater-11",
+     "width": 1346,
+     "height": 1346,
+     "regions": 12,
+     "decor": 0
+    },
+    {
+     "id": "underwater-12",
+     "width": 1346,
+     "height": 1346,
+     "regions": 9,
+     "decor": 0
+    },
+    {
+     "id": "underwater-13",
+     "width": 1346,
+     "height": 1346,
+     "regions": 13,
+     "decor": 0
+    },
+    {
+     "id": "underwater-14",
+     "width": 1346,
+     "height": 1346,
+     "regions": 7,
+     "decor": 0
+    },
+    {
+     "id": "underwater-15",
+     "width": 1346,
+     "height": 1346,
+     "regions": 9,
+     "decor": 0
+    }
+   ]
+  },
+  {
+   "id": "dino",
+   "title": "Khủng long",
+   "button": "ui/button-dino.png",
+   "icon": "ui/lock-dinosaures.png",
+   "pages": [
+    {
+     "id": "dino-01",
+     "width": 1346,
+     "height": 1346,
+     "regions": 14,
+     "decor": 0
+    },
+    {
+     "id": "dino-02",
+     "width": 1346,
+     "height": 1346,
+     "regions": 17,
+     "decor": 0
+    },
+    {
+     "id": "dino-03",
+     "width": 1346,
+     "height": 1346,
+     "regions": 19,
+     "decor": 0
+    },
+    {
+     "id": "dino-04",
+     "width": 1346,
+     "height": 1346,
+     "regions": 13,
+     "decor": 0
+    },
+    {
+     "id": "dino-05",
+     "width": 1346,
+     "height": 1346,
+     "regions": 17,
+     "decor": 0
+    },
+    {
+     "id": "dino-06",
+     "width": 1346,
+     "height": 1346,
+     "regions": 9,
+     "decor": 0
+    },
+    {
+     "id": "dino-07",
+     "width": 1346,
+     "height": 1346,
+     "regions": 12,
+     "decor": 0
+    },
+    {
+     "id": "dino-08",
+     "width": 1346,
+     "height": 1346,
+     "regions": 16,
+     "decor": 0
+    },
+    {
+     "id": "dino-09",
+     "width": 1346,
+     "height": 1346,
+     "regions": 18,
+     "decor": 0
+    },
+    {
+     "id": "dino-10",
+     "width": 1346,
+     "height": 1346,
+     "regions": 14,
+     "decor": 0
+    },
+    {
+     "id": "dino-11",
+     "width": 1346,
+     "height": 1346,
+     "regions": 10,
+     "decor": 0
+    },
+    {
+     "id": "dino-12",
+     "width": 1346,
+     "height": 1346,
+     "regions": 17,
+     "decor": 0
+    },
+    {
+     "id": "dino-13",
+     "width": 1346,
+     "height": 1346,
+     "regions": 9,
+     "decor": 0
+    },
+    {
+     "id": "dino-14",
+     "width": 1346,
+     "height": 1346,
+     "regions": 19,
+     "decor": 0
+    },
+    {
+     "id": "dino-15",
+     "width": 1346,
+     "height": 1346,
+     "regions": 10,
+     "decor": 0
+    }
+   ]
+  },
+  {
+   "id": "aliens",
+   "title": "Quái vật",
+   "button": "ui/button-alients.png",
+   "icon": "ui/lock-alien.png",
+   "pages": [
+    {
+     "id": "aliens-01",
+     "width": 1346,
+     "height": 1346,
+     "regions": 12,
+     "decor": 0
+    },
+    {
+     "id": "aliens-02",
+     "width": 1346,
+     "height": 1346,
+     "regions": 7,
+     "decor": 0
+    },
+    {
+     "id": "aliens-03",
+     "width": 1346,
+     "height": 1346,
+     "regions": 6,
+     "decor": 0
+    },
+    {
+     "id": "aliens-04",
+     "width": 1346,
+     "height": 1346,
+     "regions": 16,
+     "decor": 0
+    },
+    {
+     "id": "aliens-05",
+     "width": 1346,
+     "height": 1346,
+     "regions": 16,
+     "decor": 0
+    },
+    {
+     "id": "aliens-06",
+     "width": 1346,
+     "height": 1346,
+     "regions": 10,
+     "decor": 0
+    },
+    {
+     "id": "aliens-07",
+     "width": 1346,
+     "height": 1346,
+     "regions": 7,
+     "decor": 0
+    },
+    {
+     "id": "aliens-08",
+     "width": 1346,
+     "height": 1346,
+     "regions": 8,
+     "decor": 0
+    },
+    {
+     "id": "aliens-09",
+     "width": 1346,
+     "height": 1346,
+     "regions": 7,
+     "decor": 0
+    },
+    {
+     "id": "aliens-10",
+     "width": 1346,
+     "height": 1346,
+     "regions": 7,
+     "decor": 0
+    },
+    {
+     "id": "aliens-11",
+     "width": 1346,
+     "height": 1346,
+     "regions": 9,
+     "decor": 0
+    },
+    {
+     "id": "aliens-12",
+     "width": 1346,
+     "height": 1346,
+     "regions": 13,
+     "decor": 0
+    },
+    {
+     "id": "aliens-13",
+     "width": 1346,
+     "height": 1346,
+     "regions": 11,
+     "decor": 0
+    },
+    {
+     "id": "aliens-14",
+     "width": 1346,
+     "height": 1346,
+     "regions": 14,
+     "decor": 0
+    },
+    {
+     "id": "aliens-15",
+     "width": 1346,
+     "height": 1346,
+     "regions": 7,
+     "decor": 0
+    }
+   ]
+  },
+  {
+   "id": "cars",
+   "title": "Xe cộ",
+   "button": "ui/button-cars.png",
+   "icon": "ui/lock-transport.png",
+   "pages": [
+    {
+     "id": "cars-01",
+     "width": 1346,
+     "height": 1346,
+     "regions": 8,
+     "decor": 0
+    },
+    {
+     "id": "cars-02",
+     "width": 1346,
+     "height": 1346,
+     "regions": 6,
+     "decor": 0
+    },
+    {
+     "id": "cars-03",
+     "width": 1346,
+     "height": 1346,
+     "regions": 10,
+     "decor": 0
+    },
+    {
+     "id": "cars-04",
+     "width": 1346,
+     "height": 1346,
+     "regions": 15,
+     "decor": 0
+    },
+    {
+     "id": "cars-05",
+     "width": 1346,
+     "height": 1346,
+     "regions": 14,
+     "decor": 0
+    },
+    {
+     "id": "cars-06",
+     "width": 1346,
+     "height": 1346,
+     "regions": 12,
+     "decor": 0
+    },
+    {
+     "id": "cars-07",
+     "width": 1346,
+     "height": 1346,
+     "regions": 7,
+     "decor": 0
+    },
+    {
+     "id": "cars-08",
+     "width": 1346,
+     "height": 1346,
+     "regions": 9,
+     "decor": 0
+    },
+    {
+     "id": "cars-09",
+     "width": 1346,
+     "height": 1346,
+     "regions": 14,
+     "decor": 0
+    },
+    {
+     "id": "cars-10",
+     "width": 1346,
+     "height": 1346,
+     "regions": 15,
+     "decor": 0
+    },
+    {
+     "id": "cars-11",
+     "width": 1346,
+     "height": 1346,
+     "regions": 9,
+     "decor": 0
+    },
+    {
+     "id": "cars-12",
+     "width": 1346,
+     "height": 1346,
+     "regions": 11,
+     "decor": 0
+    },
+    {
+     "id": "cars-13",
+     "width": 1346,
+     "height": 1346,
+     "regions": 12,
+     "decor": 0
+    },
+    {
+     "id": "cars-14",
+     "width": 1346,
+     "height": 1346,
+     "regions": 12,
+     "decor": 0
+    },
+    {
+     "id": "cars-15",
+     "width": 1346,
+     "height": 1346,
+     "regions": 14,
+     "decor": 0
+    }
+   ]
+  },
+  {
+   "id": "princess",
+   "title": "Công chúa",
+   "button": "ui/button-princess.png",
+   "icon": "ui/lock-princesses.png",
+   "pages": [
+    {
+     "id": "princess-01",
+     "width": 1346,
+     "height": 1346,
+     "regions": 16,
+     "decor": 0
+    },
+    {
+     "id": "princess-02",
+     "width": 1346,
+     "height": 1346,
+     "regions": 17,
+     "decor": 0
+    },
+    {
+     "id": "princess-03",
+     "width": 1346,
+     "height": 1346,
+     "regions": 11,
+     "decor": 0
+    },
+    {
+     "id": "princess-04",
+     "width": 1346,
+     "height": 1346,
+     "regions": 12,
+     "decor": 0
+    },
+    {
+     "id": "princess-05",
+     "width": 1346,
+     "height": 1346,
+     "regions": 17,
+     "decor": 0
+    },
+    {
+     "id": "princess-06",
+     "width": 1346,
+     "height": 1346,
+     "regions": 17,
+     "decor": 0
+    },
+    {
+     "id": "princess-07",
+     "width": 1346,
+     "height": 1346,
+     "regions": 18,
+     "decor": 0
+    },
+    {
+     "id": "princess-08",
+     "width": 1346,
+     "height": 1346,
+     "regions": 19,
+     "decor": 0
+    },
+    {
+     "id": "princess-09",
+     "width": 1346,
+     "height": 1346,
+     "regions": 20,
+     "decor": 0
+    },
+    {
+     "id": "princess-10",
+     "width": 1346,
+     "height": 1346,
+     "regions": 19,
+     "decor": 0
+    },
+    {
+     "id": "princess-11",
+     "width": 1346,
+     "height": 1346,
+     "regions": 16,
+     "decor": 0
+    },
+    {
+     "id": "princess-12",
+     "width": 1346,
+     "height": 1346,
+     "regions": 18,
+     "decor": 0
+    },
+    {
+     "id": "princess-13",
+     "width": 1346,
+     "height": 1346,
+     "regions": 17,
+     "decor": 0
+    },
+    {
+     "id": "princess-14",
+     "width": 1346,
+     "height": 1346,
+     "regions": 14,
+     "decor": 0
+    },
+    {
+     "id": "princess-15",
+     "width": 1346,
+     "height": 1346,
+     "regions": 14,
+     "decor": 0
+    }
+   ]
+  },
+  {
+   "id": "robots",
+   "title": "Robot",
+   "button": "ui/button-robots.png",
+   "icon": "ui/lock-robots.png",
+   "pages": [
+    {
+     "id": "robots-01",
+     "width": 1346,
+     "height": 1346,
+     "regions": 30,
+     "decor": 0
+    },
+    {
+     "id": "robots-02",
+     "width": 1346,
+     "height": 1346,
+     "regions": 35,
+     "decor": 0
+    },
+    {
+     "id": "robots-03",
+     "width": 1346,
+     "height": 1346,
+     "regions": 30,
+     "decor": 0
+    },
+    {
+     "id": "robots-04",
+     "width": 1346,
+     "height": 1346,
+     "regions": 28,
+     "decor": 0
+    },
+    {
+     "id": "robots-05",
+     "width": 1346,
+     "height": 1346,
+     "regions": 27,
+     "decor": 0
+    },
+    {
+     "id": "robots-06",
+     "width": 1346,
+     "height": 1346,
+     "regions": 31,
+     "decor": 0
+    },
+    {
+     "id": "robots-07",
+     "width": 1346,
+     "height": 1346,
+     "regions": 23,
+     "decor": 0
+    },
+    {
+     "id": "robots-08",
+     "width": 1346,
+     "height": 1346,
+     "regions": 28,
+     "decor": 0
+    },
+    {
+     "id": "robots-09",
+     "width": 1346,
+     "height": 1346,
+     "regions": 29,
+     "decor": 0
+    },
+    {
+     "id": "robots-10",
+     "width": 1346,
+     "height": 1346,
+     "regions": 28,
+     "decor": 0
+    },
+    {
+     "id": "robots-11",
+     "width": 1346,
+     "height": 1346,
+     "regions": 33,
+     "decor": 0
+    },
+    {
+     "id": "robots-12",
+     "width": 1346,
+     "height": 1346,
+     "regions": 28,
+     "decor": 0
+    },
+    {
+     "id": "robots-13",
+     "width": 1346,
+     "height": 1346,
+     "regions": 29,
+     "decor": 0
+    },
+    {
+     "id": "robots-14",
+     "width": 1346,
+     "height": 1346,
+     "regions": 25,
+     "decor": 0
+    },
+    {
+     "id": "robots-15",
+     "width": 1346,
+     "height": 1346,
+     "regions": 30,
+     "decor": 0
+    }
+   ]
+  },
+  {
+   "id": "christmas",
+   "title": "Giáng sinh",
+   "button": "ui/button-christmas.png",
+   "icon": "ui/lock-christmas.png",
+   "pages": [
+    {
+     "id": "christmas-01",
+     "width": 1346,
+     "height": 1346,
+     "regions": 20,
+     "decor": 0
+    },
+    {
+     "id": "christmas-02",
+     "width": 1346,
+     "height": 1346,
+     "regions": 16,
+     "decor": 0
+    },
+    {
+     "id": "christmas-03",
+     "width": 1346,
+     "height": 1346,
+     "regions": 22,
+     "decor": 0
+    },
+    {
+     "id": "christmas-04",
+     "width": 1346,
+     "height": 1346,
+     "regions": 15,
+     "decor": 0
+    },
+    {
+     "id": "christmas-05",
+     "width": 1346,
+     "height": 1346,
+     "regions": 18,
+     "decor": 0
+    },
+    {
+     "id": "christmas-06",
+     "width": 1346,
+     "height": 1346,
+     "regions": 24,
+     "decor": 0
+    },
+    {
+     "id": "christmas-07",
+     "width": 1346,
+     "height": 1346,
+     "regions": 14,
+     "decor": 0
+    },
+    {
+     "id": "christmas-08",
+     "width": 1346,
+     "height": 1346,
+     "regions": 16,
+     "decor": 0
+    },
+    {
+     "id": "christmas-09",
+     "width": 1346,
+     "height": 1346,
+     "regions": 25,
+     "decor": 0
+    },
+    {
+     "id": "christmas-10",
+     "width": 1346,
+     "height": 1346,
+     "regions": 10,
+     "decor": 0
+    },
+    {
+     "id": "christmas-11",
+     "width": 1346,
+     "height": 1346,
+     "regions": 18,
+     "decor": 0
+    },
+    {
+     "id": "christmas-12",
+     "width": 1346,
+     "height": 1346,
+     "regions": 24,
+     "decor": 0
+    },
+    {
+     "id": "christmas-13",
+     "width": 1346,
+     "height": 1346,
+     "regions": 22,
+     "decor": 0
+    },
+    {
+     "id": "christmas-14",
+     "width": 1346,
+     "height": 1346,
+     "regions": 11,
+     "decor": 0
+    },
+    {
+     "id": "christmas-15",
+     "width": 1346,
+     "height": 1346,
+     "regions": 8,
+     "decor": 0
+    }
+   ]
+  },
+  {
+   "id": "fairytale",
+   "title": "Cổ tích",
+   "button": "ui/button-fairytale.png",
+   "icon": "ui/lock-fairy-taels.png",
+   "pages": [
+    {
+     "id": "fairytale-01",
+     "width": 1346,
+     "height": 1346,
+     "regions": 11,
+     "decor": 0
+    },
+    {
+     "id": "fairytale-02",
+     "width": 1346,
+     "height": 1346,
+     "regions": 9,
+     "decor": 0
+    },
+    {
+     "id": "fairytale-03",
+     "width": 1346,
+     "height": 1346,
+     "regions": 10,
+     "decor": 0
+    },
+    {
+     "id": "fairytale-04",
+     "width": 1346,
+     "height": 1346,
+     "regions": 8,
+     "decor": 0
+    },
+    {
+     "id": "fairytale-05",
+     "width": 1346,
+     "height": 1346,
+     "regions": 7,
+     "decor": 0
+    },
+    {
+     "id": "fairytale-06",
+     "width": 1346,
+     "height": 1346,
+     "regions": 8,
+     "decor": 0
+    },
+    {
+     "id": "fairytale-07",
+     "width": 1346,
+     "height": 1346,
+     "regions": 9,
+     "decor": 0
+    },
+    {
+     "id": "fairytale-08",
+     "width": 1346,
+     "height": 1346,
+     "regions": 9,
+     "decor": 0
+    },
+    {
+     "id": "fairytale-09",
+     "width": 1346,
+     "height": 1346,
+     "regions": 9,
+     "decor": 0
+    },
+    {
+     "id": "fairytale-10",
+     "width": 1346,
+     "height": 1346,
+     "regions": 10,
+     "decor": 0
+    },
+    {
+     "id": "fairytale-11",
+     "width": 1346,
+     "height": 1346,
+     "regions": 9,
+     "decor": 0
+    },
+    {
+     "id": "fairytale-12",
+     "width": 1346,
+     "height": 1346,
+     "regions": 13,
+     "decor": 0
+    },
+    {
+     "id": "fairytale-13",
+     "width": 1346,
+     "height": 1346,
+     "regions": 10,
+     "decor": 0
+    },
+    {
+     "id": "fairytale-14",
+     "width": 1346,
+     "height": 1346,
+     "regions": 11,
+     "decor": 0
+    },
+    {
+     "id": "fairytale-15",
+     "width": 1346,
+     "height": 1346,
+     "regions": 9,
+     "decor": 0
+    }
+   ]
+  }
+ ],
+ "colors": [
+  "#e57e7e",
+  "#c91012",
+  "#d53d09",
+  "#de720a",
+  "#ee7d18",
+  "#cf8919",
+  "#e7ab15",
+  "#d4b51c",
+  "#d7c728",
+  "#c3d915",
+  "#79a728",
+  "#2f8512",
+  "#0d4b0d",
+  "#0f6049",
+  "#2b847f",
+  "#4c9a7e",
+  "#25a3a3",
+  "#0fe0c2",
+  "#4bb0cd",
+  "#216cb5",
+  "#0b41d9",
+  "#0c0cc5",
+  "#2213a2",
+  "#1a1951",
+  "#48217c",
+  "#7f308f",
+  "#9546a5",
+  "#e777c7",
+  "#d834a1",
+  "#aa3359",
+  "#89205b",
+  "#4f3021",
+  "#331b1a",
+  "#1a1a1a",
+  "#444547",
+  "#7b7c7e",
+  "#ffffff",
+  "#e0c19a",
+  "#d08963",
+  "#d0856a"
+ ]
+}
