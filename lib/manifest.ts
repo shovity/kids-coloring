@@ -6,7 +6,8 @@ export type Manifest = { packs: Pack[]; colors: string[] };
 
 export const manifest = data as Manifest;
 
-export const GAME = "/game";
+export const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+export const GAME = `${BASE}/game`;
 export const asset = (path: string) => `${GAME}/${path}`;
 export const ui = (name: string) => asset(`ui/${encodeURIComponent(name)}`);
 

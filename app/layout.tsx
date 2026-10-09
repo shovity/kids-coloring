@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import { Baloo_2 } from "next/font/google";
 import RemoveOldSW from "@/components/RemoveOldSW";
+import { BASE } from "@/lib/manifest";
 import "./globals.css";
 
 const font = Baloo_2({ subsets: ["latin", "vietnamese"], weight: ["600", "800"] });
@@ -8,9 +9,9 @@ const font = Baloo_2({ subsets: ["latin", "vietnamese"], weight: ["600", "800"] 
 export const metadata: Metadata = {
   title: "Bé Tô Màu",
   description: "Trò chơi tô màu cho bé",
-  manifest: "/manifest.webmanifest",
+  manifest: `${BASE}/manifest.webmanifest`,
   appleWebApp: { capable: true, title: "Bé Tô Màu", statusBarStyle: "black-translucent" },
-  icons: { icon: "/icon-192.png", apple: "/apple-touch-icon.png" },
+  icons: { icon: `${BASE}/icon-192.png`, apple: `${BASE}/apple-touch-icon.png` },
 };
 
 export const viewport: Viewport = {

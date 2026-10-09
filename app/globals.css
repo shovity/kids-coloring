@@ -53,7 +53,7 @@ button:disabled {
 .sky {
   position: fixed;
   inset: 0;
-  background: url(/game/ui/bg.png) center bottom / cover no-repeat, linear-gradient(#5fd0f5, #38b6e8);
+  background: url(../public/game/ui/bg.png) center bottom / cover no-repeat, linear-gradient(#5fd0f5, #38b6e8);
   overflow: hidden;
 }
 
@@ -318,7 +318,7 @@ button:disabled {
   content: "";
   position: absolute;
   inset: 0;
-  background: var(--white) url(/game/ui/icon.png) center / 22% no-repeat;
+  background: var(--white) url(../public/game/ui/icon.png) center / 22% no-repeat;
   animation: pulse 1s ease-in-out infinite alternate;
 }
 

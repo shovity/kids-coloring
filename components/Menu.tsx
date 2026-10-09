@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useCallback, useEffect, useState } from "react";
 import Sky from "./Sky";
-import { manifest, pageAsset, ui, type Pack } from "@/lib/manifest";
+import { asset, manifest, pageAsset, ui, type Pack } from "@/lib/manifest";
 import { isMuted, play, preload, setMuted, startMusic, unlockAudio } from "@/lib/sound";
 import { loadThumb, onStorageChange, paintedPages } from "@/lib/storage";
 
@@ -83,7 +83,7 @@ function PackList({ onOpen }: { onOpen: (id: string) => void }) {
       {manifest.packs.map((p) => (
         <button key={p.id} className="pack" onClick={() => onOpen(p.id)}>
           <div className="pack-bubble">
-            <img src={`/game/${p.button}`} alt="" />
+            <img src={asset(p.button)} alt="" />
             <div className="pack-art">
               <img src={pageAsset(p.pages[0].id, "thumb.png")} alt="" />
             </div>
